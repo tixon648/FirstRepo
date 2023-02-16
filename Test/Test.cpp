@@ -19,7 +19,7 @@ int main()
             cout << "\n";
             counter = 0;
         }
-          
+        cout << "Программа выполнена""\n";
     }
     return 0;
 }
